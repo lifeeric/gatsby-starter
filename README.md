@@ -11,7 +11,7 @@
 # [Live Demo](http://aquatic-twist.surge.sh/)
 ### [Live Demo on gatsby cloud](https://webhook.gatsbyjs.com/hooks/data_source/363ad50a-baf9-4d26-a84c-0534f75365d8)
 
-![image](gif.gif)
+![image](gif1.gif)
 
 Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
