@@ -8,7 +8,7 @@
   Gatsby's hello-world starter
 </h1>
 
-# Live Demo [image](http://aquatic-twist.surge.sh/)
+# [Live Demo](http://aquatic-twist.surge.sh/)
 
 ![image](gif.gif)
 
